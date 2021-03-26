@@ -1,0 +1,622 @@
+
+.header{
+    background-color: #ffd338;
+}
+
+a.nav-link {
+    color: white !important;
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.logo{
+    margin-right: 120px;
+}
+a.nav-link:hover{
+    background-color: #f05c5c;
+    border-radius: 100px;
+}
+.user:hover{
+    color: #f05c5c;
+}
+.find:hover{
+    color: #f05c5c;
+}
+.menu1 ul li{
+    padding: 10px;
+}
+.btn-custom{
+    background-color: #ffd338;
+    margin: 10px 0px ;
+}
+.btn-custom:hover{
+    background-color: #f15d5d;
+}
+.di_c:hover{
+    background-color: #f15d5d;
+    transition: .2s;
+}
+.btn_user{
+    position: absolute;
+    top: -16px;
+    left: 245px;
+    color: white;
+}
+.btn_search{
+    position: absolute;
+    top: -16px;
+    left: 280px;
+    color: white;
+}
+.btn_user:focus,.btn_search:focus{
+    outline: none;
+    box-shadow: none;
+}
+.formuser{
+    position: absolute;
+    top: 57px;
+    left: 50px !important;
+}
+.formsearch{
+    position: absolute;
+    top: 57px;
+    left: 74px !important;
+}
+input:focus{
+    outline: none !important;
+    box-shadow: none !important;
+    border-color: tomato !important;
+}
+.formsearch{
+    width: -1px !important;
+}
+.dropdown ul form{
+    padding: 20px !important;
+}
+.dropdown2 ul form input{
+    width: 250px;
+    background-size: auto;
+}
+.dropdown2 ul form a{
+    padding: 0px 36px 0px 8px;
+    font-family: 'Dosis', sans-serif;
+    position: absolute;
+    left: 190px;
+    top: 18px;
+    display: inline-block;
+    color: tomato;
+}
+.dropdown2 ul form{
+    padding: 3px !important;
+}
+.banner{
+    background-image: url('../images/banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 989px;
+    /* box-shadow: 0 5px 9px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%); */
+}
+.banner h3{
+    color: aqua;
+    font-weight: 700;
+    font-family:'Dosis', sans-serif;
+    font-size: 42px;
+    text-align: center;
+    margin-top: 40%;
+}
+.banner p{
+    font-size: 20px;
+    color: darkgray;
+    margin-top:21%;
+    margin-left: 48%;
+    text-transform: uppercase;
+}
+.banner i{
+    margin-left:50% ;
+    color: gray;
+}
+.about h2{
+    text-align: center;
+    margin-bottom: 52px;
+}
+button{
+    border: none;
+}
+.about{
+
+}
+.about hr{
+    width: 195px;
+    height: 3px;
+}
+body{
+    background-image: url('../images/bg.jpg');
+    background-repeat: repeat;
+}
+.kid-education2{
+    background-image: url('../images/kideducation.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 29px;
+}
+
+.kid-education2 hr{
+    width: 245px;
+    margin-bottom: 50px;
+    border-top: 5px dashed white;
+    margin-left: 477px;
+}
+.kid-educationh2{
+    text-align: center !important;
+}
+.img1{
+    position: absolute;
+    border-radius: 50%;
+    left: 628px;
+}
+.img2{
+    position: absolute;
+    border-radius: 50%;
+    left: 959px;
+}
+.img3{
+    position: absolute;
+    border-radius: 50%;
+    left: 1289px;
+}
+.img4{
+    position: absolute;
+    border-radius: 50%;
+    left: 299px;
+}
+.all p{
+    font-size: 31px;
+    font-weight: 900;
+    color: white;
+    font-family: 'Dosis';
+
+}
+.fullgrafie{
+    padding: 52px;
+    font-family: 'Dosis';
+}
+.img img{
+    background-position: center;
+}
+.btncd{
+    background-color: #56d57e;
+    width: -webkit-fill-available;
+    height: 52px;
+    border-radius: 50px;
+    margin: 28px
+}
+.btncd i{
+    color: white;
+    font-size: 24px;
+}
+.btncd:hover  i{
+    color: black;
+    transition: .5s;
+}
+.crd-title{
+    margin-top: 53px;
+}
+.galary{
+    background-image: url('../images/imgbg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 46px;
+}
+.galary img{
+    border-radius: 20px;
+    
+}
+.galary h2{
+    font-family: 'Dosis';
+}
+.galary hr{
+    color: black
+}
+.social a{
+    text-decoration: none;
+    color: #1ec0ff;
+}
+.hash:hover{
+    text-decoration: underline;
+}
+.social a:hover{
+    text-decoration: underline;
+}
+.social-icon{
+    font-size:25px;
+    letter-spacing: 10px;
+}
+.fb{
+    color: blue;
+    padding: 5px;
+}
+.insta{
+    color: red;
+    padding: 5px;
+}
+.ggl{
+    color: #db4a39;
+    padding: 5px;
+}
+.twit{
+    padding: 5px;
+}
+.fb:hover{
+    background-color: black;
+}
+.insta:hover{
+background-color: black;
+}
+.twit:hover{
+background-color: black;
+}
+.ggl:hover{
+background-color: black;
+}
+.fm{
+    padding-top: 20px;
+    color: black;
+    font-size: 17px;
+}
+.fm:hover{
+    color: red;
+}
+.fm a h4:hover{
+    text-decoration-color: red;
+    text-decoration-color: red;
+}
+.social img{
+    border-radius: 20px;
+}
+.social{
+    padding: 56px;
+}
+.social h3{
+    color: aqua;
+}
+.gttl hr{
+    text-align: center;
+    width: 230px;
+    height: 4px;
+    margin-left: 525px;
+}
+.dot-1{
+    border: 5px dashed white;
+    width: 263px;
+    margin-left: 504px;
+    margin-bottom: 40px;
+}
+.dot-2{
+    border: 5px dashed white;
+    width: 263px;
+    margin-bottom: 100px;
+}
+.who{
+    padding: 47px;
+    font-family: 'Dosis';
+}
+.scbtn{
+        width: 242px;
+        background-size: auto;
+        padding-right: 52px;
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+.crdp{
+    text-align: center;
+}
+.headcrd{
+    text-align: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.headcrd i{
+    position: absolute;
+    top: 6px;
+    font-size: 22px;
+    left: 233px;
+    color: white;
+}
+.headcrd p{
+    margin-top: 6px;
+    font-size: 14px;
+    color: white;
+}
+.ccd1{
+background-color: aqua;
+}
+.ccd2{
+    background-color:#56d57e;
+}
+.ccd3{
+    background-color: #f05c5c;
+}
+.ccd4{
+    background-color: #ffd237;
+}
+.cdb{
+    border-radius:21px !important;
+}
+.btnmore:focus{
+    border: none !important;
+    box-shadow: none;
+    
+}
+.btnmore{
+    margin-top: 53px;
+    color: none;
+    transition:none;
+    border-style: none;
+}
+.jqry{
+    background:linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)),url('../images/Doraemon.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 80px 0px;
+    text-align: center;
+}
+
+.jqry p{
+    font-size: 25px;
+    font-weight: 800;
+    color: white;
+    font-family: 'Dosis';
+}
+.jqry span{
+    font-size: 60px;
+    font-weight: 700;
+    font-family: 'Dosis';
+    color:white;
+
+}
+.jqry h2{
+    color:#5ed080;
+    padding:30px;
+    font-family: 'Dosis';
+}
+.augback{
+    font-size: 26px;
+    font-family: 'Dosis';
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    background: aqua;
+    border-radius: 50%;
+    width: 95px;
+    height: 88px;
+    padding: 5px;
+    margin-bottom: 35px;
+}
+.headtl h2{
+    margin-top: 115px;
+    margin-bottom: 100px;
+    font-family: 'Dosis';
+    font-weight: 700;
+}
+.augback span,h4{
+    font-family: 'Dosis';
+    font-weight: 700;
+}
+.dis{
+    color: aqua;
+}
+.last p{
+    font-size: 13px;
+    font-family: 'Dosis';
+}
+.last a{
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 18px;
+    text-decoration: none;
+    color: burlywood;
+}
+.last a:hover{
+    text-decoration: underline;
+}
+.headtl2 h2{
+    margin-top: 115px;
+    margin-bottom: 71px;
+    font-family: 'Dosis';
+    font-weight: 700;
+}
+.augback2{
+    font-size: 26px;
+    font-family: 'Dosis';
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    background: #56d57e;
+    border-radius: 50%;
+    width: 95px;
+    height: 88px;
+    padding: 5px;
+    margin-bottom: 35px;
+}
+.augback3{
+    font-size: 26px;
+    font-family: 'Dosis';
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    background: #ffd237;
+    border-radius: 50%;
+    width: 95px;
+    height: 88px;
+    padding: 5px;
+    margin-bottom: 35px;
+}
+.augback4{
+    font-size: 26px;
+    font-family: 'Dosis';
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    background: #f05c5c;
+    border-radius: 50%;
+    width: 95px;
+    height: 88px;
+    padding: 5px;
+    margin-bottom: 35px;
+}
+.img img{
+    border-radius: 15px;
+    margin-top: 10px;
+    height: 162px;
+}
+.disoftl{
+    margin-top: 10px;
+    margin-left: -43px;
+    text-align: justify;
+}
+.disoftl p{
+    font-family: inherit;
+}
+.disoftl h5{
+    font-family: 'Dosis';
+}
+.disoftl span{
+    font-family: 'Dosis';
+}
+.dot-3{
+    border-bottom: 5px dotted #1ec0ff;
+    width: 372px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+}
+.dot-3cgn{
+    border-bottom: 5px dotted #62cd84;
+    width: 372px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+}
+.dot-3cg{
+    border-bottom: 5px dotted gold;
+    width: 372px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+}
+.scbtn2{
+    position: absolute;
+    left: 30px;
+    top: -11px;
+    font-size: 16px
+}
+.scbtn{
+    padding-right: 43px;
+}
+.footer img{
+    position: absolute;
+    left: 8px;
+    margin-top: -48%;
+
+}
+.contact{
+    padding: 163px;
+    margin-top: 219px;
+}
+.contact i{
+    color: aqua;
+}
+.dot-3cntg{
+    border-bottom: 5px dotted gold;
+    width: 132px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+}
+.ins{
+    color: gold;
+}
+.cont{
+    color: #77cb85;
+}
+.dot-3cntgrn{
+    border-bottom: 5px dotted #7bdf91;
+    width: 132px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+}
+a{
+    text-decoration: none;
+}
+.contc i,a{
+    color: grey;
+    margin-top: 16px;
+
+}
+.contc a:hover{
+    color: grey;
+
+}
+.contus{
+    color:#6dcf8d;
+}
+.snup{
+    color: red;
+}
+.dot-3red{
+    border-bottom: 5px dotted red;
+    width: 132px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+}
+.share i{
+    color: grey;
+    font-size: 16px;
+    position: absolute;
+    left: 260px;
+    top: 10px;
+}
+.cus:focus{
+    transition: none;
+    border-color:gray !important;
+    
+
+}
+.cus{
+    transition: none;
+}
+.input-group > .form-control:focus, .input-group > .form-select:focus {
+    z-index: 0;
+}
+.contact{
+    background-color: white;
+}
+.share i:hover{
+    color: tomato;
+    cursor:pointer;
+    transition: .4s;
+}
+.iconofftr a{
+    padding: 11px;
+    margin-top: 5px;
+    display: inline-block;
+    color: gray;
+}
+.iconofftr i{
+    color: gray;
+    font-size: 17px;
+}
+.iconofftr i:hover{
+    color: tomato;
+    transition: .5s;
+}
+.hea{
+    margin-bottom: 82px;
+}
+.crb{
+    color: white;
+    margin-left: 385px;
+    margin-top: 34px;
+}
